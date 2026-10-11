@@ -869,6 +869,16 @@
   "file": "memex-lab__product-launch-video-skill.jpg",
   "still": "memex-lab__product-launch-video-skill.jpg"
  },
+ "mikelix/gstack-tutorial-5-agi-race-v2": {
+  "repo": "mikelix/gstack-tutorial-5-agi-race-v2",
+  "url": "https://raw.githubusercontent.com/mikelix/gstack-tutorial-5-agi-race-v2/HEAD/assets/fig_pipeline_en.png",
+  "alt": "Three layers, one loop: decide → build → render → measure",
+  "score": -2.5,
+  "type": "image/png",
+  "bytes": 122159,
+  "file": "mikelix__gstack-tutorial-5-agi-race-v2.jpg",
+  "still": "mikelix__gstack-tutorial-5-agi-race-v2.jpg"
+ },
  "minosdevs/cinematic-film": {
   "repo": "minosdevs/cinematic-film",
   "url": "https://raw.githubusercontent.com/minosdevs/cinematic-film/HEAD/references/example-assets-sheet.png",
@@ -1068,6 +1078,16 @@
   "bytes": 1519449,
   "file": "wocha-xiaoli__video-shot-analysis-feishu.jpg",
   "still": "wocha-xiaoli__video-shot-analysis-feishu.jpg"
+ },
+ "ymybxx/SoloMCN": {
+  "repo": "ymybxx/SoloMCN",
+  "url": "https://raw.githubusercontent.com/ymybxx/SoloMCN/HEAD/docs/images/x-feed.png",
+  "alt": "素材里的推特",
+  "score": -0.05,
+  "type": "image/png",
+  "bytes": 443217,
+  "file": "ymybxx__SoloMCN.jpg",
+  "still": "ymybxx__SoloMCN.jpg"
  },
  "zenstory-ai/video-recap-skills": {
   "repo": "zenstory-ai/video-recap-skills",
