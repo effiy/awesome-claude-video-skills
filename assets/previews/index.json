@@ -779,6 +779,16 @@
   "file": "isaachang__motion-video-workflow.gif",
   "still": "isaachang__motion-video-workflow.jpg"
  },
+ "jammaru/launch-video-craft": {
+  "repo": "jammaru/launch-video-craft",
+  "url": "https://raw.githubusercontent.com/jammaru/launch-video-craft/HEAD/assets/agent-demo.webp",
+  "alt": "An agent using Launch Video Craft to check tempo and correct a drift",
+  "score": 1.7,
+  "type": "image/webp",
+  "bytes": 1515312,
+  "file": "jammaru__launch-video-craft.jpg",
+  "still": "jammaru__launch-video-craft.jpg"
+ },
  "jaxxchen003/book-video-factory": {
   "repo": "jaxxchen003/book-video-factory",
   "url": "https://raw.githubusercontent.com/jaxxchen003/book-video-factory/HEAD/examples/posters/boundaries.jpg",
@@ -958,6 +968,16 @@
   "bytes": 473256,
   "file": "pyang5166__gbro-collage-info.gif",
   "still": "pyang5166__gbro-collage-info.jpg"
+ },
+ "revfactory/showreel": {
+  "repo": "revfactory/showreel",
+  "url": "https://raw.githubusercontent.com/revfactory/showreel/HEAD/docs/media/showreel-preview.gif",
+  "alt": "Highlights from a 2-minute showreel promo video made with the showreel skill",
+  "score": 4.7,
+  "type": "image/gif",
+  "bytes": 3320990,
+  "file": "revfactory__showreel.gif",
+  "still": "revfactory__showreel.jpg"
  },
  "samuelstroschein/opus-video-generator": {
   "repo": "samuelstroschein/opus-video-generator",
