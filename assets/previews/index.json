@@ -1,4 +1,14 @@
 {
+ "0xS4N4TG/papercut-explainer": {
+  "repo": "0xS4N4TG/papercut-explainer",
+  "url": "https://raw.githubusercontent.com/0xS4N4TG/papercut-explainer/HEAD/docs/img/hello-reel.gif",
+  "alt": "A two-scene reel built with the library: hook title, parallax camera, word-by-wo",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 1667978,
+  "file": "0xS4N4TG__papercut-explainer.jpg",
+  "still": "0xS4N4TG__papercut-explainer.jpg"
+ },
  "124zhe/xigua-msvideo-skill": {
   "repo": "124zhe/xigua-msvideo-skill",
   "url": "https://raw.githubusercontent.com/124zhe/xigua-msvideo-skill/HEAD/skills/youtube-ms-paint-images/assets/frame-007_00m11s839ms.png",
@@ -18,6 +28,16 @@
   "bytes": 84148,
   "file": "Aaryan-Kapoor__video-production-skill.gif",
   "still": "Aaryan-Kapoor__video-production-skill.jpg"
+ },
+ "AbubakrChan/product-launch-motion": {
+  "repo": "AbubakrChan/product-launch-motion",
+  "url": "https://raw.githubusercontent.com/AbubakrChan/product-launch-motion/HEAD/examples/one-shape-loop.webp",
+  "alt": "One shape, never cut: a button becomes a loader, a check, a creator reel, a rate",
+  "score": -0.05,
+  "type": "image/webp",
+  "bytes": 3325266,
+  "file": "AbubakrChan__product-launch-motion.jpg",
+  "still": "AbubakrChan__product-launch-motion.jpg"
  },
  "AgriciDaniel/claude-shorts": {
   "repo": "AgriciDaniel/claude-shorts",
@@ -248,6 +268,16 @@
   "bytes": 3419441,
   "file": "Liamrjohnston__remotion-motion-graphics-skill.gif",
   "still": "Liamrjohnston__remotion-motion-graphics-skill.jpg"
+ },
+ "Matteoikarieth96/whiteboard-video-skill": {
+  "repo": "Matteoikarieth96/whiteboard-video-skill",
+  "url": "https://raw.githubusercontent.com/Matteoikarieth96/whiteboard-video-skill/HEAD/docs/demo.gif",
+  "alt": "demo",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 2088950,
+  "file": "Matteoikarieth96__whiteboard-video-skill.gif",
+  "still": "Matteoikarieth96__whiteboard-video-skill.jpg"
  },
  "Monet-AI-Editor/Monet": {
   "repo": "Monet-AI-Editor/Monet",
