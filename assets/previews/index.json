@@ -139,16 +139,6 @@
   "file": "Changroro__code-video.gif",
   "still": "Changroro__code-video.jpg"
  },
- "Dancan254/voiceover-video-skill": {
-  "repo": "Dancan254/voiceover-video-skill",
-  "url": "https://raw.githubusercontent.com/Dancan254/voiceover-video-skill/HEAD/docs/demo.gif",
-  "alt": "A 42-second Kafka vs RabbitMQ explainer made with this skill: word-synced captio",
-  "score": 2.5,
-  "type": "image/gif",
-  "bytes": 2728180,
-  "file": "Dancan254__voiceover-video-skill.gif",
-  "still": "Dancan254__voiceover-video-skill.jpg"
- },
  "EGSECDA/vocaloid-style-mv-pipeline": {
   "repo": "EGSECDA/vocaloid-style-mv-pipeline",
   "url": "https://raw.githubusercontent.com/EGSECDA/vocaloid-style-mv-pipeline/HEAD/docs/images/vertical_strip.jpg",
@@ -308,6 +298,16 @@
   "bytes": 1335161,
   "file": "Tejashmakwana__motionmaxxing.gif",
   "still": "Tejashmakwana__motionmaxxing.jpg"
+ },
+ "Vandit1604/vawe": {
+  "repo": "Vandit1604/vawe",
+  "url": "https://raw.githubusercontent.com/Vandit1604/vawe/HEAD/assets/vawe-demo.gif",
+  "alt": "vawe demo",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 58252,
+  "file": "Vandit1604__vawe.gif",
+  "still": "Vandit1604__vawe.jpg"
  },
  "WhiteTowerAI/cut-as-code": {
   "repo": "WhiteTowerAI/cut-as-code",
@@ -488,6 +488,16 @@
   "bytes": 129361,
   "file": "crawfordxx__paper-cut-video-skill.jpg",
   "still": "crawfordxx__paper-cut-video-skill.jpg"
+ },
+ "crawfordxx/xiaoma-studio": {
+  "repo": "crawfordxx/xiaoma-studio",
+  "url": "https://raw.githubusercontent.com/crawfordxx/xiaoma-studio/HEAD/docs/gallery/museum-compound.gif",
+  "alt": "",
+  "score": 3.0,
+  "type": "image/gif",
+  "bytes": 189798,
+  "file": "crawfordxx__xiaoma-studio.gif",
+  "still": "crawfordxx__xiaoma-studio.jpg"
  },
  "crimeacs/product-demo-director": {
   "repo": "crimeacs/product-demo-director",
@@ -1008,6 +1018,16 @@
   "bytes": 3320990,
   "file": "revfactory__showreel.gif",
   "still": "revfactory__showreel.jpg"
+ },
+ "rock3r/cav": {
+  "repo": "rock3r/cav",
+  "url": "https://raw.githubusercontent.com/rock3r/cav/HEAD/docs/images/spectrogram.png",
+  "alt": "cav spectrogram",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 310128,
+  "file": "rock3r__cav.jpg",
+  "still": "rock3r__cav.jpg"
  },
  "samuelstroschein/opus-video-generator": {
   "repo": "samuelstroschein/opus-video-generator",
