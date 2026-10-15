@@ -139,6 +139,16 @@
   "file": "Changroro__code-video.gif",
   "still": "Changroro__code-video.jpg"
  },
+ "Dancan254/shenghua": {
+  "repo": "Dancan254/shenghua",
+  "url": "https://raw.githubusercontent.com/Dancan254/shenghua/HEAD/docs/demo.gif",
+  "alt": "A 42-second Kafka vs RabbitMQ explainer made with this skill: word-synced captio",
+  "score": 2.5,
+  "type": "image/gif",
+  "bytes": 2728180,
+  "file": "Dancan254__shenghua.gif",
+  "still": "Dancan254__shenghua.jpg"
+ },
  "EGSECDA/vocaloid-style-mv-pipeline": {
   "repo": "EGSECDA/vocaloid-style-mv-pipeline",
   "url": "https://raw.githubusercontent.com/EGSECDA/vocaloid-style-mv-pipeline/HEAD/docs/images/vertical_strip.jpg",
@@ -929,15 +939,15 @@
   "file": "mikelix__gstack-tutorial-5-agi-race-v2.jpg",
   "still": "mikelix__gstack-tutorial-5-agi-race-v2.jpg"
  },
- "minosdevs/cinematic-film": {
-  "repo": "minosdevs/cinematic-film",
-  "url": "https://raw.githubusercontent.com/minosdevs/cinematic-film/HEAD/references/example-assets-sheet.png",
-  "alt": "Assets generated for the example film",
+ "motalim-ai/motion-starter-kit": {
+  "repo": "motalim-ai/motion-starter-kit",
+  "url": "https://raw.githubusercontent.com/motalim-ai/motion-starter-kit/HEAD/styles/plotter/thumbnail.png",
+  "alt": "شاهد الفيديو على يوتيوب",
   "score": 2.0,
   "type": "image/png",
-  "bytes": 2127021,
-  "file": "minosdevs__cinematic-film.jpg",
-  "still": "minosdevs__cinematic-film.jpg"
+  "bytes": 644700,
+  "file": "motalim-ai__motion-starter-kit.jpg",
+  "still": "motalim-ai__motion-starter-kit.jpg"
  },
  "mrieck/demoday-claude-plugin": {
   "repo": "mrieck/demoday-claude-plugin",
