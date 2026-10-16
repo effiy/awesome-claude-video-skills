@@ -39,6 +39,16 @@
   "file": "AbubakrChan__product-launch-motion.jpg",
   "still": "AbubakrChan__product-launch-motion.jpg"
  },
+ "Agentchengfeng/chengfeng-video-styles": {
+  "repo": "Agentchengfeng/chengfeng-video-styles",
+  "url": "https://raw.githubusercontent.com/Agentchengfeng/chengfeng-video-styles/HEAD/assets/preview-tea.jpg",
+  "alt": "同一个主题“茶”，15 种风格各做一条",
+  "score": 1.9,
+  "type": "image/jpeg",
+  "bytes": 459669,
+  "file": "Agentchengfeng__chengfeng-video-styles.jpg",
+  "still": "Agentchengfeng__chengfeng-video-styles.jpg"
+ },
  "AgriciDaniel/claude-shorts": {
   "repo": "AgriciDaniel/claude-shorts",
   "url": "https://raw.githubusercontent.com/AgriciDaniel/claude-shorts/HEAD/claude-shorts-header.jpeg",
