@@ -7,6 +7,7 @@ authors and stay under the license of the project they come from. To have one re
 | File | Project | License | Original |
 |---|---|---|---|
 | `0xS4N4TG__papercut-explainer.jpg` | [0xS4N4TG/papercut-explainer](https://github.com/0xS4N4TG/papercut-explainer) | MIT | [source](https://raw.githubusercontent.com/0xS4N4TG/papercut-explainer/HEAD/docs/img/hello-reel.gif) |
+| `10291124jcjc-dotcom__ancient-rap-battle.jpg` | [10291124jcjc-dotcom/ancient-rap-battle](https://github.com/10291124jcjc-dotcom/ancient-rap-battle) | MIT | [source](https://raw.githubusercontent.com/10291124jcjc-dotcom/ancient-rap-battle/HEAD/assets/frame-1.jpg) |
 | `124zhe__xigua-msvideo-skill.jpg` | [124zhe/xigua-msvideo-skill](https://github.com/124zhe/xigua-msvideo-skill) | MIT | [source](https://raw.githubusercontent.com/124zhe/xigua-msvideo-skill/HEAD/skills/youtube-ms-paint-images/assets/frame-007_00m11s839ms.png) |
 | `Aaryan-Kapoor__video-production-skill.gif` | [Aaryan-Kapoor/video-production-skill](https://github.com/Aaryan-Kapoor/video-production-skill) | MIT | [source](https://raw.githubusercontent.com/Aaryan-Kapoor/video-production-skill/HEAD/examples/generated/papers/clawmark-living-world-benchmark/exports/clawmark_showcase_preview.gif) |
 | `AbubakrChan__product-launch-motion.jpg` | [AbubakrChan/product-launch-motion](https://github.com/AbubakrChan/product-launch-motion) | MIT | [source](https://raw.githubusercontent.com/AbubakrChan/product-launch-motion/HEAD/examples/one-shape-loop.webp) |
