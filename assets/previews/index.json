@@ -309,6 +309,16 @@
   "file": "Monet-AI-Editor__Monet.jpg",
   "still": "Monet-AI-Editor__Monet.jpg"
  },
+ "Nealsun1993/talk-workbench": {
+  "repo": "Nealsun1993/talk-workbench",
+  "url": "https://raw.githubusercontent.com/Nealsun1993/talk-workbench/HEAD/assets/demo-contact.jpg",
+  "alt": "示例联系表",
+  "score": 2.0,
+  "type": "image/jpeg",
+  "bytes": 358196,
+  "file": "Nealsun1993__talk-workbench.jpg",
+  "still": "Nealsun1993__talk-workbench.jpg"
+ },
  "Neelshah1810/Claude-Video-Skills": {
   "repo": "Neelshah1810/Claude-Video-Skills",
   "url": "https://raw.githubusercontent.com/Neelshah1810/Claude-Video-Skills/HEAD/previews/low-tide-titles-preview.gif",
@@ -1109,6 +1119,16 @@
   "file": "smwbev__framewright.jpg",
   "still": "smwbev__framewright.jpg"
  },
+ "sudadom/arabic-motion-graphics-skill": {
+  "repo": "sudadom/arabic-motion-graphics-skill",
+  "url": "https://raw.githubusercontent.com/sudadom/arabic-motion-graphics-skill/HEAD/assets/explainer.gif",
+  "alt": "Explainer demo",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 949664,
+  "file": "sudadom__arabic-motion-graphics-skill.gif",
+  "still": "sudadom__arabic-motion-graphics-skill.jpg"
+ },
  "surajshetty3416/demo-video-skill": {
   "repo": "surajshetty3416/demo-video-skill",
   "url": "https://raw.githubusercontent.com/surajshetty3416/demo-video-skill/HEAD/media/editor-dark.png",
@@ -1238,5 +1258,15 @@
   "bytes": 947318,
   "file": "znyupup__knowledge-explainer-skill.gif",
   "still": "znyupup__knowledge-explainer-skill.jpg"
+ },
+ "zz41354899/mografy": {
+  "repo": "zz41354899/mografy",
+  "url": "https://raw.githubusercontent.com/zz41354899/mografy/main/docs/media/mografy-intro.gif",
+  "alt": "Watch the twelve-second Mografy intro",
+  "score": 2.95,
+  "type": "image/gif",
+  "bytes": 861289,
+  "file": "zz41354899__mografy.gif",
+  "still": "zz41354899__mografy.jpg"
  }
 }
