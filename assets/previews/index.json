@@ -289,6 +289,16 @@
   "file": "Liamrjohnston__remotion-motion-graphics-skill.gif",
   "still": "Liamrjohnston__remotion-motion-graphics-skill.jpg"
  },
+ "Lunamos/paper2video": {
+  "repo": "Lunamos/paper2video",
+  "url": "https://raw.githubusercontent.com/Lunamos/paper2video/HEAD/assets/showcase/flas-02-demo.jpg",
+  "alt": "",
+  "score": 1.65,
+  "type": "image/jpeg",
+  "bytes": 128295,
+  "file": "Lunamos__paper2video.jpg",
+  "still": "Lunamos__paper2video.jpg"
+ },
  "Matteoikarieth96/whiteboard-video-skill": {
   "repo": "Matteoikarieth96/whiteboard-video-skill",
   "url": "https://raw.githubusercontent.com/Matteoikarieth96/whiteboard-video-skill/HEAD/docs/demo.gif",
@@ -358,6 +368,16 @@
   "bytes": 28523,
   "file": "WhiteTowerAI__cut-as-code.jpg",
   "still": "WhiteTowerAI__cut-as-code.jpg"
+ },
+ "Xiangyu-CAS/rea-capcut": {
+  "repo": "Xiangyu-CAS/rea-capcut",
+  "url": "https://raw.githubusercontent.com/Xiangyu-CAS/rea-capcut/HEAD/docs/screenshots/ui-parity-editor.png",
+  "alt": "ReaCut 的素材库、播放器、属性面板与多轨时间线",
+  "score": -2.7,
+  "type": "image/png",
+  "bytes": 119082,
+  "file": "Xiangyu-CAS__rea-capcut.jpg",
+  "still": "Xiangyu-CAS__rea-capcut.jpg"
  },
  "Yuuhann1999/agent-storyboard": {
   "repo": "Yuuhann1999/agent-storyboard",
@@ -648,6 +668,16 @@
   "bytes": 393735,
   "file": "eternityspring__reelbench-skills.jpg",
   "still": "eternityspring__reelbench-skills.jpg"
+ },
+ "fltman/infofilm": {
+  "repo": "fltman/infofilm",
+  "url": "https://raw.githubusercontent.com/fltman/infofilm/HEAD/docs/the-year.jpg",
+  "alt": "The template's golden scene \"One year\": a day counter with decimals snapping on,",
+  "score": 1.95,
+  "type": "image/jpeg",
+  "bytes": 130265,
+  "file": "fltman__infofilm.jpg",
+  "still": "fltman__infofilm.jpg"
  },
  "gnipbao/story-to-handdrawn-video": {
   "repo": "gnipbao/story-to-handdrawn-video",
@@ -1029,6 +1059,16 @@
   "file": "ops120__video-recap-skills-plus.jpg",
   "still": "ops120__video-recap-skills-plus.jpg"
  },
+ "patryk-penczek/ship-video": {
+  "repo": "patryk-penczek/ship-video",
+  "url": "https://raw.githubusercontent.com/patryk-penczek/ship-video/HEAD/docs/readme/real.webp",
+  "alt": "A film strip of app frames, 1920×1080 at 60 fps",
+  "score": 1.55,
+  "type": "image/webp",
+  "bytes": 1473454,
+  "file": "patryk-penczek__ship-video.jpg",
+  "still": "patryk-penczek__ship-video.jpg"
+ },
  "pjecuacion/script-to-video-skill": {
   "repo": "pjecuacion/script-to-video-skill",
   "url": "https://img.youtube.com/vi/-oEgathHyA0/0.jpg",
@@ -1119,6 +1159,16 @@
   "file": "smwbev__framewright.jpg",
   "still": "smwbev__framewright.jpg"
  },
+ "sub-level/marketing-videos": {
+  "repo": "sub-level/marketing-videos",
+  "url": "https://img.youtube.com/vi/5LKApvTGNPg/maxresdefault.jpg",
+  "alt": "Collectors launch film",
+  "score": 2.0,
+  "type": "image/jpeg",
+  "bytes": 127617,
+  "file": "sub-level__marketing-videos.jpg",
+  "still": "sub-level__marketing-videos.jpg"
+ },
  "sudadom/arabic-motion-graphics-skill": {
   "repo": "sudadom/arabic-motion-graphics-skill",
   "url": "https://raw.githubusercontent.com/sudadom/arabic-motion-graphics-skill/HEAD/assets/explainer.gif",
@@ -1138,6 +1188,16 @@
   "bytes": 526866,
   "file": "surajshetty3416__demo-video-skill.jpg",
   "still": "surajshetty3416__demo-video-skill.jpg"
+ },
+ "threeaus/creator-style-kit": {
+  "repo": "threeaus/creator-style-kit",
+  "url": "https://raw.githubusercontent.com/threeaus/creator-style-kit/HEAD/docs/preview.gif",
+  "alt": "18 套风格的数字揭晓",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 2068089,
+  "file": "threeaus__creator-style-kit.gif",
+  "still": "threeaus__creator-style-kit.jpg"
  },
  "timscheuerai/launch-video-kit": {
   "repo": "timscheuerai/launch-video-kit",
