@@ -128,6 +128,7 @@ authors and stay under the license of the project they come from. To have one re
 | `video-db__skills.jpg` | [video-db/skills](https://github.com/video-db/skills) | MIT | [source](https://github.com/user-attachments/assets/fdbf3879-dcd6-443c-93e0-9a7e1bfdfa90) |
 | `vincentsch__explainroo.jpg` | [vincentsch/explainroo](https://github.com/vincentsch/explainroo) | MIT | [source](https://raw.githubusercontent.com/vincentsch/explainroo/HEAD/docs/media/looks-light.webp) |
 | `WhiteTowerAI__cut-as-code.jpg` | [WhiteTowerAI/cut-as-code](https://github.com/WhiteTowerAI/cut-as-code) | MIT | [source](https://img.youtube.com/vi/3yFPOC8kFxU/maxresdefault.jpg) |
+| `Win-Hao__music-mv.gif` | [Win-Hao/music-mv](https://github.com/Win-Hao/music-mv) | MIT | [source](https://raw.githubusercontent.com/Win-Hao/music-mv/HEAD/docs/style-pixel.gif) |
 | `wocha-xiaoli__video-shot-analysis-feishu.jpg` | [wocha-xiaoli/video-shot-analysis-feishu](https://github.com/wocha-xiaoli/video-shot-analysis-feishu) | MIT | [source](https://raw.githubusercontent.com/wocha-xiaoli/video-shot-analysis-feishu/HEAD/assets/video-shot-analysis-feishu-infographic.png) |
 | `Xiangyu-CAS__rea-capcut.jpg` | [Xiangyu-CAS/rea-capcut](https://github.com/Xiangyu-CAS/rea-capcut) | MIT | [source](https://raw.githubusercontent.com/Xiangyu-CAS/rea-capcut/HEAD/docs/screenshots/ui-parity-editor.png) |
 | `ymybxx__SoloMCN.jpg` | [ymybxx/SoloMCN](https://github.com/ymybxx/SoloMCN) | MIT | [source](https://raw.githubusercontent.com/ymybxx/SoloMCN/HEAD/docs/images/x-feed.png) |

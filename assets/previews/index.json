@@ -369,6 +369,16 @@
   "file": "WhiteTowerAI__cut-as-code.jpg",
   "still": "WhiteTowerAI__cut-as-code.jpg"
  },
+ "Win-Hao/music-mv": {
+  "repo": "Win-Hao/music-mv",
+  "url": "https://raw.githubusercontent.com/Win-Hao/music-mv/HEAD/docs/style-pixel.gif",
+  "alt": "像素游戏风",
+  "score": 4.65,
+  "type": "image/gif",
+  "bytes": 301877,
+  "file": "Win-Hao__music-mv.gif",
+  "still": "Win-Hao__music-mv.jpg"
+ },
  "Xiangyu-CAS/rea-capcut": {
   "repo": "Xiangyu-CAS/rea-capcut",
   "url": "https://raw.githubusercontent.com/Xiangyu-CAS/rea-capcut/HEAD/docs/screenshots/ui-parity-editor.png",
